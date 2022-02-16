@@ -4,6 +4,11 @@
 
 In this tutorial, we'll build a to-do application from scratch, all in Swift. We'll learn how to implement CRUD (Create, Read, Update and Delete) actions and persist data in our app with the MongoDB Realm package.
 
+🔗 Links mentioned in the video:
+➡️ Basic UITableView and Data Passing: https://youtu.be/4MOiU_Qop-0
+➡ Basic Core Data CRUD Operation: https://youtube.com/playlist?list=PLWZIhpNhtvfofDMgWtuknkcow-_jY-dfa
+➡ Core Data Relationship (Advanced): https://youtube.com/playlist?list=PLWZIhpNhtvfrBVe707HF5VLpRSIPmRJrt
+
 ## Installation
 
 ### CocoaPods
