@@ -1,4 +1,4 @@
-# Build a To Do App from scratch with Realm and Singleton Design Pattern in Swift 5 Hindi.
+# Build a To Do List App from scratch with Realm and Singleton Design Pattern in Swift 5 Hindi.
 
 ### 🗒 Create a to-do app from scratch with SwiftUI and Realm
 
