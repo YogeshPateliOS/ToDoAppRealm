@@ -14,6 +14,10 @@ In this tutorial, we'll build a to-do application from scratch, all in Swift. We
 - Install Realm using Cocoapods: https://docs.mongodb.com/realm/sdk/swift/install/
 - Quick Start CRUD: https://docs.mongodb.com/realm/sdk/swift/quick-start/
 
+👩🏻‍💻 🔴 If you want to join online swift training or classes 🔴
+💌 Contact me at - contact@codewithyogesh.com
+Check this video for more info: https://youtu.be/YL-_FS_tpeE
+
 👋🏻 Let's connect!
 - Instagram: https://www.instagram.com/codewithyogesh/
 - Linkedin: https://www.linkedin.com/in/yogeshpatelios/
