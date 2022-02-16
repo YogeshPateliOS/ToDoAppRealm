@@ -9,6 +9,12 @@ In this tutorial, we'll build a to-do application from scratch, all in Swift. We
 - Basic Core Data CRUD Operation: https://youtube.com/playlist?list=PLWZIhpNhtvfofDMgWtuknkcow-_jY-dfa
 - Core Data Relationship (Advanced): https://youtube.com/playlist?list=PLWZIhpNhtvfrBVe707HF5VLpRSIPmRJrt
 
+📝 Access the documentation links of REALM:
+- Download Realm: http://realm.io.s3-website-us-east-1.amazonaws.com/products/realm-studio/
+- Install Realm using Cocoapods: https://docs.mongodb.com/realm/sdk/swift/install/
+- Quick Start CRUD: https://docs.mongodb.com/realm/sdk/swift/quick-start/
+
+
 ## Installation
 
 ### CocoaPods
