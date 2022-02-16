@@ -6,5 +6,5 @@ target 'ToDoAppRealm' do
   use_frameworks!
 
   # Pods for ToDoAppRealm
-
+pod 'RealmSwift'
 end
